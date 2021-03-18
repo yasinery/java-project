@@ -1,0 +1,5 @@
+droid:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="161dp"
+        tools:srcCompat="@tools:sample/avatars" />
+</androidx.constraintlayout.w
